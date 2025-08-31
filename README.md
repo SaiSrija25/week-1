@@ -1,2 +1,2 @@
 # week-1
-This project leverages Artificial Intelligence (AI) and Machine Learning (ML) to optimize and manage water resources efficiently. The system simulates a reservoir's water allocation using priority-based distribution , while considering inflows, evaporation losses, environmental flow requirements,
+This project leverages Artificial Intelligence (AI) and Machine Learning (ML) to optimize and manage water resources efficiently.Water quality prediction involves using data-driven or computational models to forecast the physical, chemical, and biological parameters that determine the safety and usability of water resources. The main goal is to assess water conditions for drinking, agriculture, industry, and ecological balance.
