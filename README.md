@@ -5,4 +5,4 @@ This project leverages Artificial Intelligence (AI) and Machine Learning (ML) to
 
 Added project (EDA,Exploratory Data Analysis Data Transformation Feature Selection Model Training Accuracy Evaluation)as a continuation of Week 1 after clearing outputs and optimizing the code.
 ## WEEK 3 
-FINAL PROJECT WITH SOUCE CODE 
+FINAL PROJECT WITH SOURCE CODE 
